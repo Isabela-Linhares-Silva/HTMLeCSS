@@ -1,0 +1,10 @@
+p{
+    color: blueviolet;
+}
+section > p{
+    color: palevioletred;
+}
+
+#segunda_section > p{
+    color: rgb(112, 188, 191);
+}
