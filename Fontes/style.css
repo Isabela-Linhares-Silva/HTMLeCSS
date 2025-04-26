@@ -1,0 +1,17 @@
+p{
+    font-family: Lora, sans-serif;
+    color: cornflowerblue;
+    font-size: 100%;
+    letter-spacing: 3px;
+    font-weight: 550;
+    text-align: right;
+}
+
+nav> p{
+    font-family: Lora, sans-serif;
+    color:crimson;
+    font-size: 100%;
+    letter-spacing: 3px;
+    font-weight: 550;
+    text-align:left;
+}
