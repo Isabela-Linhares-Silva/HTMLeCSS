@@ -1,0 +1,21 @@
+main{
+    color: aliceblue;
+}
+
+.uno{
+    background-color: darkgoldenrod;
+    height: 200px;
+    width: 500px;
+}
+
+.dos{
+    background-color: lightslategray;
+    height: 200px;
+    width: 400px;
+}
+
+.tres{
+    background-color:navy;
+    height: 200px;
+    width: 300px;
+}
