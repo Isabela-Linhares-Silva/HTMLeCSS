@@ -1,0 +1,21 @@
+main{
+    width: 800px;
+    height: 600px;
+   background-color: darkolivegreen; 
+}
+
+.First{
+    background-color: aquamarine;
+    position:absolute;
+    top: 0;
+}
+.Second{
+    background-color: coral;
+    position: relative;
+    top: 50px;
+}
+.Third{
+    position:sticky;
+    background-color:cadetblue ;
+    top: 0;
+}

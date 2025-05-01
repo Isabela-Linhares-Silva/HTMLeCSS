@@ -1,0 +1,25 @@
+main{
+    background-color:rgb(164, 121, 121) ;   
+    width: 800px;
+    height: 700px;
+    padding: 40px ;
+    
+}
+
+section{
+    background-color: aquamarine;
+    width: 700px;
+    height: 500px;
+    padding: 30px;
+}
+
+div{
+    background-color: rgb(162, 96, 224);
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+    float: left;
+    
+    text-align: center;
+    line-height: 150px;
+}
