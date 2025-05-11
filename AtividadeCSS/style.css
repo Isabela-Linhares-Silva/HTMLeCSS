@@ -26,9 +26,37 @@ header{
 
 }
 
-h3 > div{ 
+.Bolinhas{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    justify-content: center;
+}
+
+.Bolinhas div{ 
+    background-color: blueviolet;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
 
 }
+
+.times{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    justify-content: center;
+    color: darkorchid;
+}
+
+.devs{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    justify-content: center;
+    color: darkorchid;
+}
+
 p{
     display: flex;
     justify-content: center;
@@ -43,4 +71,5 @@ footer{
     display: flex;
     justify-content: center;
     color:white;
+    margin-top: 50px;
 }
