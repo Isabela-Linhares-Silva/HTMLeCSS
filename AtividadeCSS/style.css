@@ -31,38 +31,28 @@ header{
     flex-direction: row;
     gap: 50px;
     justify-content: center;
+    margin-top: 30px;
 }
 
-.Bolinhas div{ 
-    background-color: blueviolet;
+.membro{ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: darkorchid;
+    
+}
+
+.circulo{
     border-radius: 50%;
     width: 100px;
     height: 100px;
-
-}
-
-.times{
-    display: flex;
-    flex-direction: row;
-    gap: 100px;
-    justify-content: center;
-    color: darkorchid;
-}
-
-.devs{
-    display: flex;
-    flex-direction: row;
-    gap: 100px;
-    justify-content: center;
-    color: darkorchid;
+    background-color:blueviolet;
+    margin-top: 10px;
 }
 
 p{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    margin: 20px 40px 20px 40px;
+    text-align: center;
+    margin: 0px 30px 0px 40px;
 }
 
 
@@ -72,4 +62,5 @@ footer{
     justify-content: center;
     color:white;
     margin-top: 50px;
+    
 }
