@@ -9,8 +9,52 @@ header{
     display: flex;
     justify-content:center;
     align-items:center;
-    flex-direction:column;
 
+}
+
+header div{
+    width: 80%;
+    display: flex;
+    background-color: darkgoldenrod;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+main{
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content:center;
+}
+.conteiner{
+    width:80% ;
+    padding: 20px;
+    background-color: blue;
+    display: flex;
+
+    gap: 20px;
+    justify-content: center;
+}
+
+.bloco1
+{
+    width: 120px;
+    height: 120px;
+    background-color: aquamarine;
+}
+
+.bloco2
+{
+    width: 120px;
+    height: 160px;
+    background-color: aquamarine;
+}
+
+.bloco3
+{
+    width: 120px;
+    height: 180px;
+    background-color: aquamarine;
 }
 
 ul{
